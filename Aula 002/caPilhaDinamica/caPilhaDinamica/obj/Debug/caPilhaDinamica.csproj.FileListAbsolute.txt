@@ -1,0 +1,6 @@
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 002\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.csprojResolveAssemblyReference.cache
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 002\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe.config
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 002\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 002\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.pdb
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 002\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.exe
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 002\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.pdb

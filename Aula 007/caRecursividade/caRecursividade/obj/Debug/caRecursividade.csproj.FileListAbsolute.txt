@@ -1,0 +1,7 @@
+E:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 007\caRecursividade\caRecursividade\bin\Debug\caRecursividade.exe.config
+E:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 007\caRecursividade\caRecursividade\bin\Debug\caRecursividade.exe
+E:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 007\caRecursividade\caRecursividade\bin\Debug\caRecursividade.pdb
+E:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 007\caRecursividade\caRecursividade\obj\Debug\caRecursividade.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 007\caRecursividade\caRecursividade\obj\Debug\caRecursividade.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 007\caRecursividade\caRecursividade\obj\Debug\caRecursividade.exe
+E:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 007\caRecursividade\caRecursividade\obj\Debug\caRecursividade.pdb

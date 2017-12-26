@@ -1,0 +1,12 @@
+c:\users\thiago\documents\visual studio 2017\Projects\caPilha_Invertida\caPilha_Invertida\bin\Debug\caPilha_Invertida.exe.config
+c:\users\thiago\documents\visual studio 2017\Projects\caPilha_Invertida\caPilha_Invertida\bin\Debug\caPilha_Invertida.exe
+c:\users\thiago\documents\visual studio 2017\Projects\caPilha_Invertida\caPilha_Invertida\bin\Debug\caPilha_Invertida.pdb
+c:\users\thiago\documents\visual studio 2017\Projects\caPilha_Invertida\caPilha_Invertida\obj\Debug\caPilha_Invertida.csprojResolveAssemblyReference.cache
+c:\users\thiago\documents\visual studio 2017\Projects\caPilha_Invertida\caPilha_Invertida\obj\Debug\caPilha_Invertida.exe
+c:\users\thiago\documents\visual studio 2017\Projects\caPilha_Invertida\caPilha_Invertida\obj\Debug\caPilha_Invertida.pdb
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPilha_Invertida\caPilha_Invertida\caPilha_Invertida\bin\Debug\caPilha_Invertida.exe.config
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPilha_Invertida\caPilha_Invertida\caPilha_Invertida\bin\Debug\caPilha_Invertida.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPilha_Invertida\caPilha_Invertida\caPilha_Invertida\bin\Debug\caPilha_Invertida.pdb
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPilha_Invertida\caPilha_Invertida\caPilha_Invertida\obj\Debug\caPilha_Invertida.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPilha_Invertida\caPilha_Invertida\caPilha_Invertida\obj\Debug\caPilha_Invertida.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPilha_Invertida\caPilha_Invertida\caPilha_Invertida\obj\Debug\caPilha_Invertida.pdb

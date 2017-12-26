@@ -1,0 +1,5 @@
+BUSCA BINÁRIA
+
+Vetor ordenada: A[2,5,8,12,15,20,27]
+se x pertence a A, retornar i tal que A[i] = x;
+Se x nao pertence a A, entao i = -1;

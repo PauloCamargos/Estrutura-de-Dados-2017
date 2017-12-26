@@ -1,0 +1,6 @@
+c:\users\paulo\documents\visual studio 2017\Projects\caPilha\caPilha\bin\Debug\caPilha.exe.config
+c:\users\paulo\documents\visual studio 2017\Projects\caPilha\caPilha\bin\Debug\caPilha.exe
+c:\users\paulo\documents\visual studio 2017\Projects\caPilha\caPilha\bin\Debug\caPilha.pdb
+c:\users\paulo\documents\visual studio 2017\Projects\caPilha\caPilha\obj\Debug\caPilha.csprojResolveAssemblyReference.cache
+c:\users\paulo\documents\visual studio 2017\Projects\caPilha\caPilha\obj\Debug\caPilha.exe
+c:\users\paulo\documents\visual studio 2017\Projects\caPilha\caPilha\obj\Debug\caPilha.pdb

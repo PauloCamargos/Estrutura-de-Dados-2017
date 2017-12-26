@@ -1,0 +1,14 @@
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Laboratorios\caLab03\caLab03\bin\Debug\caLab03.exe.config
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Laboratorios\caLab03\caLab03\bin\Debug\caLab03.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Laboratorios\caLab03\caLab03\bin\Debug\caLab03.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Laboratorios\caLab03\caLab03\obj\Debug\caLab03.csprojResolveAssemblyReference.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Laboratorios\caLab03\caLab03\obj\Debug\caLab03.csproj.CoreCompileInputs.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Laboratorios\caLab03\caLab03\obj\Debug\caLab03.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Laboratorios\caLab03\caLab03\obj\Debug\caLab03.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Prova2\caLab03\caLab03\bin\Debug\caLab03.exe.config
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Prova2\caLab03\caLab03\bin\Debug\caLab03.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Prova2\caLab03\caLab03\bin\Debug\caLab03.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Prova2\caLab03\caLab03\obj\Debug\caLab03.csprojResolveAssemblyReference.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Prova2\caLab03\caLab03\obj\Debug\caLab03.csproj.CoreCompileInputs.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Prova2\caLab03\caLab03\obj\Debug\caLab03.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Prova2\caLab03\caLab03\obj\Debug\caLab03.pdb

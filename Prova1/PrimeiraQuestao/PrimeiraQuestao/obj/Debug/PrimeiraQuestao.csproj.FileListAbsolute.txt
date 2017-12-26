@@ -1,0 +1,6 @@
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Prova1\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\PrimeiraQuestao.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Prova1\PrimeiraQuestao\PrimeiraQuestao\bin\Debug\PrimeiraQuestao.exe.config
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Prova1\PrimeiraQuestao\PrimeiraQuestao\bin\Debug\PrimeiraQuestao.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Prova1\PrimeiraQuestao\PrimeiraQuestao\bin\Debug\PrimeiraQuestao.pdb
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Prova1\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\PrimeiraQuestao.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Prova1\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\PrimeiraQuestao.pdb

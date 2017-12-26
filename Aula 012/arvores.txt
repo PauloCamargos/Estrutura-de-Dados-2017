@@ -1,0 +1,18 @@
+ÁRVORES
+
+Utilizando quando é necessario hierarquia
+Nos que não tem filhos são chamados de folhas
+Só existe um único caminho da raiz para qualquer nó
+Folha: nodulo independente
+Nivel: Raiz-0, Subarvore da raiz-1, ...
+A altura é o numero do nível, começando em zero
+
+Árvore Binária (AB)
+Cada nó tem no máximo 2 filhos
+sae: sub arvore da esquerda
+sad: sub arvore da direita
+
+Próxima aula: Arvore binária para ordenar uma lista
+
+
+

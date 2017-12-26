@@ -1,0 +1,19 @@
+Pilhas com Templates (gabaritos)
+
+Pilhas (ou outras EDs) capazes de representar tipos genéricos
+de dados (built_in e ADTs-Abstract Data Type).
+built-in (nativo): char, int, String, double, etc
+ADTs: Aluno, Empregado, Disciplina, etc.
+
+Método: -INTERFACE
+	-CORPO (codigo)
+
+		
+public int fatorial(int n){  //->interface do método
+	int fat = 1;	     // daqui pra baixo é corpo
+	
+	for..
+}
+
+Os TAD's permitem que varios tipos de dados built-in ou não sejam
+implementados dentro de uma pilha. 

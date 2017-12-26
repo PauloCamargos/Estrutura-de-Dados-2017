@@ -1,0 +1,6 @@
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\PythonProjects\OpenCVTut\ExPilha1\ExPilha1\bin\Debug\ExPilha1.exe.config
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\PythonProjects\OpenCVTut\ExPilha1\ExPilha1\bin\Debug\ExPilha1.exe
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\PythonProjects\OpenCVTut\ExPilha1\ExPilha1\bin\Debug\ExPilha1.pdb
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\PythonProjects\OpenCVTut\ExPilha1\ExPilha1\obj\Debug\ExPilha1.csprojResolveAssemblyReference.cache
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\PythonProjects\OpenCVTut\ExPilha1\ExPilha1\obj\Debug\ExPilha1.exe
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\PythonProjects\OpenCVTut\ExPilha1\ExPilha1\obj\Debug\ExPilha1.pdb

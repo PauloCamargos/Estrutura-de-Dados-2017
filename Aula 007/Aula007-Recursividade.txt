@@ -1,0 +1,47 @@
+RECURSIVIDAE
+
+Método de implementação de um procedimento que faz chamada de si mesmo.
+Seu mecanismo está relacionado com uma pilha
+
+------------ Fatorial Procedimental ----------
+int fatorial (int n){
+	int fat = 1;
+	while(n>=1){
+		fat = fat * n;
+		n--;
+	}
+	return (fat);
+}
+------------ Fatorial Recursiva --------------
+int fatorial(int n){
+	int fat = 1;
+	if(n == 0 || n==1) // Condição de parada.
+		return fat;
+	else
+		return fat*fatorial(n-1);
+} Obs.: n! = n(n-1)!
+Desta forma o occorre a criação de uma pilha.
+-----------------------------------------------
+-------------------------
+|n	fatorial	|
+|1	fatorial(0)	|
+|2	fatorial(1)	|
+|3	fatorial(2)	|
+|4	fatorial(3)	|
+|5	fatorial(4)	|
+¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+Else vai desempilhando até a condição de parada.
+
+Vantagens:
+- Muito mais simples;
+- Útil para manipulação simbólica e compiladores;
+
+Desvantagens:
+- É computacionalmente mais cara;
+- Stack Overflow;
+
+Exercício: 1) Fazer o Fibbonacci de n, que é fb(n+1)
+2) Busca Binária. Determinar se um dado número é elemento 
+de um dado vetor ordenado. Mas especificamente, dado um 
+inteiro x e um vetor crescente v[0,..., n-1] de inteiros,
+encontrar um índice m tal que v[m] == x.

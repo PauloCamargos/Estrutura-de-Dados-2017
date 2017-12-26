@@ -1,0 +1,13 @@
+Prova: 1 questão de pilha e 1 de fila
+
+Exercício - Revisão
+
+Escreva um programa em C# que reverta o conteúde de uma
+Pilha. Por exemplo, 
+A B C D E - antes
+E D C B A - depois
+Em seguida, utilize este mecanismo para identificar se 
+uma palavra (ou expressão) é palíndroma. (desconsiderar espaços)Ex.:
+OVO
+ARARA
+SOCORRAM ME SUBI NO ONIBUS EM MARROCOS

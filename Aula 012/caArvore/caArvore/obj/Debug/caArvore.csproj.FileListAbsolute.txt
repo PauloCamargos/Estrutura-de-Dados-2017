@@ -1,0 +1,7 @@
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 012\caArvore\caArvore\obj\Debug\caArvore.csprojResolveAssemblyReference.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 012\caArvore\caArvore\obj\Debug\caArvore.csproj.CoreCompileInputs.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 012\caArvore\caArvore\bin\Debug\caArvore.exe.config
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 012\caArvore\caArvore\bin\Debug\caArvore.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 012\caArvore\caArvore\bin\Debug\caArvore.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 012\caArvore\caArvore\obj\Debug\caArvore.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 012\caArvore\caArvore\obj\Debug\caArvore.pdb

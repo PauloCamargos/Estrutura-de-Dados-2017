@@ -1,0 +1,74 @@
+        public void remove(int num)
+        {
+            if (isEmpty())
+            {
+                Console.WriteLine("Impossível Remover. A árvore está vazia!!!");
+            }
+
+            else
+            {
+                remove(this.root, null, num);
+            }            
+        }
+
+        public void remove(NohArvore node, NohArvore Previous, int n)
+        {
+            if (node != null)
+            {
+                if (n == node.Data)
+                {
+                    if (node == root)
+                    {
+                        root = removeModify(node);
+                    }
+                    else
+                    {
+                        if (Previous.Right == node)
+                        {
+                            Previous.Right = removeModify(node);
+                        }
+                        else
+                        {
+                            Previous.Left = removeModify(node);
+                        }
+                    }
+                }
+                if (n < node.Data)
+                    remove(node.Left, node, n);
+                else if( n > node.Data)
+                    remove(node.Right, node, n);
+            }
+            else
+            {
+                Console.WriteLine("Elemento não encontrado!!");
+            }
+        }
+
+        public NohArvore removeModify(NohArvore node)
+        {
+            NohArvore aux1 = new NohArvore();
+            NohArvore aux2 = new NohArvore();
+
+            if(node.Left == null)
+            {
+                aux2 = node.Right;
+                Console.WriteLine("Elemento Removido com Sucesso!!");
+                return aux2;
+            }
+            aux1 = node;
+            aux2 = node.Left;
+            while(aux2.Right != null)
+            {
+                aux1 = aux2;
+                aux2 = aux2.Right;
+            }
+
+            if(aux1 != node)
+            {
+                aux1.Right = aux2.Left;
+                aux2.Left = node.Left;
+            }
+            aux2.Right = node.Right;
+            Console.WriteLine("Elemento Removido com Sucesso!!");
+            return aux2;
+        }

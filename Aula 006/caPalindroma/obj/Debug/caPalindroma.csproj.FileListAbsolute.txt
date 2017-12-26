@@ -1,0 +1,13 @@
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPalindroma\bin\Debug\caPalindroma.exe.config
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPalindroma\bin\Debug\caPalindroma.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPalindroma\bin\Debug\caPalindroma.pdb
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPalindroma\obj\Debug\caPalindroma.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPalindroma\obj\Debug\caPalindroma.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPalindroma\obj\Debug\caPalindroma.pdb
+E:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPalindroma\bin\Debug\caPalindroma.exe.config
+E:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPalindroma\bin\Debug\caPalindroma.exe
+E:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPalindroma\bin\Debug\caPalindroma.pdb
+E:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPalindroma\obj\Debug\caPalindroma.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPalindroma\obj\Debug\caPalindroma.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPalindroma\obj\Debug\caPalindroma.exe
+E:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 006\caPalindroma\obj\Debug\caPalindroma.pdb

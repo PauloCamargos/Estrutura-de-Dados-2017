@@ -1,0 +1,19 @@
+Implementacao de Grafos  (indireta)
+
+caGrafo
+
+class Cidade:
+{
+String nome;
+int habitantes;
+}
+
+Os nós serão colocados em uma lista duplamente encadeada
+
+class NohGrafo
+Previous:
+Data: cidade
+Lista: lista de nos adjacentes
+Next:
+
+

@@ -1,0 +1,6 @@
+c:\users\paulo\documents\visual studio 2017\Projects\caFilaTAD\bin\Debug\caFilaTAD.exe.config
+c:\users\paulo\documents\visual studio 2017\Projects\caFilaTAD\bin\Debug\caFilaTAD.exe
+c:\users\paulo\documents\visual studio 2017\Projects\caFilaTAD\bin\Debug\caFilaTAD.pdb
+c:\users\paulo\documents\visual studio 2017\Projects\caFilaTAD\obj\Debug\caFilaTAD.csprojResolveAssemblyReference.cache
+c:\users\paulo\documents\visual studio 2017\Projects\caFilaTAD\obj\Debug\caFilaTAD.exe
+c:\users\paulo\documents\visual studio 2017\Projects\caFilaTAD\obj\Debug\caFilaTAD.pdb

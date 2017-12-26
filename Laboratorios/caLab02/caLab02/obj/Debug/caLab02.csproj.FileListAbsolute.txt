@@ -1,0 +1,6 @@
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Laboratorios\caLab02\caLab02\bin\Debug\caLab02.exe.config
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Laboratorios\caLab02\caLab02\bin\Debug\caLab02.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Laboratorios\caLab02\caLab02\bin\Debug\caLab02.pdb
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Laboratorios\caLab02\caLab02\obj\Debug\caLab02.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Laboratorios\caLab02\caLab02\obj\Debug\caLab02.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Laboratorios\caLab02\caLab02\obj\Debug\caLab02.pdb

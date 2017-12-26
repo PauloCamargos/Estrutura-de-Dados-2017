@@ -1,0 +1,46 @@
+LISTA DUPLAMENTE ENCADEADA
+
+É uma estrutura linear com dois pontos de controle, chamados
+de INICIO e FIM. Entretanto, seu mecanismo permite inserções e 
+deleções em qualquer ponto. Antes ou depois de qualquer elemento 
+da lista.
+
+Mecanismo:
+
+---------------------------------	---------------------------------
+|	|		|	|	|	|		|	|
+|	|		|	|--->	|	|		|	|
+|	|		|	|	|	|		|	|
+|	|		|	|	|	|		|	|
+|	|		|	|  ...	|	|		|	|
+|	|		|	|	|	|		|	|
+|	|		|	|   <---|	|		|	|
+|	|		|	|	|	|		|	|
+|	|		|	|	|	|		|	|
+---------------------------------	---------------------------------
+ previous      data	  next		 previous      data	  next
+
+		INICIO					FIM
+
+DIAGRAMA UML:
+
+
+---------------------------------		---------------------------------
+|____________Lista______________|		|__________NoLista______________|
+|NoLista inicio;	  	|		|NohLista previous;		|
+|No Lista fim;		  	|		|int data;			|
+---------------------------------<>1-------0..*	|NoLista next;			|
+|Lsita();			|		---------------------------------
+|void insereInicio();		|		|NohLista();			|
+|int remover();			|		|NohLista(int);			|
+|void imprimir();		|		|getters() e setters();		|
+---------------------------------		---------------------------------
+
+Exemplo:
+[1] Insere elemento - Inicio
+[2] Insere elemento - Fim
+[3] Remove um elemento
+[4] Imprime a lista
+[5] Sair 
+
+

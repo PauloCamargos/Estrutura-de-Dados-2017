@@ -1,0 +1,25 @@
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 002\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.csprojResolveAssemblyReference.cache
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 002\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe.config
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 002\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 002\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.pdb
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 002\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.exe
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 002\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.pdb
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 003\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe.config
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 003\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 003\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.pdb
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 003\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.csprojResolveAssemblyReference.cache
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 003\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.exe
+C:\Users\paulo\Documents\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 003\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.pdb
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 003\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe.config
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 003\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 003\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.pdb
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 003\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 003\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 003\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 003\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe.config
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 003\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 003\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 003\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.csprojResolveAssemblyReference.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 003\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.csproj.CoreCompileInputs.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 003\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 003\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.pdb

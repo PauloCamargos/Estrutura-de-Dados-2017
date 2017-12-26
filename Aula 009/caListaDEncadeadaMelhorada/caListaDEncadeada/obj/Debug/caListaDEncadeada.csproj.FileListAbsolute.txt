@@ -1,0 +1,14 @@
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 009\caListaDEncadeada\caListaDEncadeada\bin\Debug\caListaDEncadeada.exe.config
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 009\caListaDEncadeada\caListaDEncadeada\bin\Debug\caListaDEncadeada.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 009\caListaDEncadeada\caListaDEncadeada\bin\Debug\caListaDEncadeada.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 009\caListaDEncadeada\caListaDEncadeada\obj\Debug\caListaDEncadeada.csproj.CoreCompileInputs.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 009\caListaDEncadeada\caListaDEncadeada\obj\Debug\caListaDEncadeada.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 009\caListaDEncadeada\caListaDEncadeada\obj\Debug\caListaDEncadeada.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 009\caListaDEncadeada\caListaDEncadeada\obj\Debug\caListaDEncadeada.csprojResolveAssemblyReference.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Prova2\caListaDEncadeada\caListaDEncadeada\bin\Debug\caListaDEncadeada.exe.config
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Prova2\caListaDEncadeada\caListaDEncadeada\bin\Debug\caListaDEncadeada.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Prova2\caListaDEncadeada\caListaDEncadeada\bin\Debug\caListaDEncadeada.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Prova2\caListaDEncadeada\caListaDEncadeada\obj\Debug\caListaDEncadeada.csprojResolveAssemblyReference.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Prova2\caListaDEncadeada\caListaDEncadeada\obj\Debug\caListaDEncadeada.csproj.CoreCompileInputs.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Prova2\caListaDEncadeada\caListaDEncadeada\obj\Debug\caListaDEncadeada.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Prova2\caListaDEncadeada\caListaDEncadeada\obj\Debug\caListaDEncadeada.pdb

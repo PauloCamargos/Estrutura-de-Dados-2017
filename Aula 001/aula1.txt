@@ -1,0 +1,31 @@
+Implementação da pilha estática
+Pseudocódigo
+
+bool isEmpty(){
+  if(topo == -1)
+    return true;
+  else
+  return false;
+}
+
+void push(int n){
+  if(topo > (max -1))
+    MessageBox("Pilha Cheia");
+  else
+  {
+    topo++;
+    a[topo] = n; 
+  }
+}
+
+int pop(){
+  desempilhado = 0;
+  if(topo == -1){
+    MessageBox("Pilha vazia")
+  }
+  else{
+    desempilhado = a[topo];
+    topo--;
+  }
+  return desempilhado;
+}

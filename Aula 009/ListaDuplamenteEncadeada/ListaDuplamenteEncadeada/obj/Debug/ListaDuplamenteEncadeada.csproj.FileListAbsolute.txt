@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ListaDuplamenteEncadeada\ListaDuplamenteEncadeada\bin\Debug\ListaDuplamenteEncadeada.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ListaDuplamenteEncadeada\ListaDuplamenteEncadeada\bin\Debug\ListaDuplamenteEncadeada.exe
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ListaDuplamenteEncadeada\ListaDuplamenteEncadeada\bin\Debug\ListaDuplamenteEncadeada.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ListaDuplamenteEncadeada\ListaDuplamenteEncadeada\obj\Debug\ListaDuplamenteEncadeada.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ListaDuplamenteEncadeada\ListaDuplamenteEncadeada\obj\Debug\ListaDuplamenteEncadeada.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ListaDuplamenteEncadeada\ListaDuplamenteEncadeada\obj\Debug\ListaDuplamenteEncadeada.exe
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ListaDuplamenteEncadeada\ListaDuplamenteEncadeada\obj\Debug\ListaDuplamenteEncadeada.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ListaDuplamenteEncadeada2\ListaDuplamenteEncadeada\bin\Debug\ListaDuplamenteEncadeada.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ListaDuplamenteEncadeada2\ListaDuplamenteEncadeada\bin\Debug\ListaDuplamenteEncadeada.exe
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ListaDuplamenteEncadeada2\ListaDuplamenteEncadeada\bin\Debug\ListaDuplamenteEncadeada.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ListaDuplamenteEncadeada2\ListaDuplamenteEncadeada\obj\Debug\ListaDuplamenteEncadeada.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ListaDuplamenteEncadeada2\ListaDuplamenteEncadeada\obj\Debug\ListaDuplamenteEncadeada.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ListaDuplamenteEncadeada2\ListaDuplamenteEncadeada\obj\Debug\ListaDuplamenteEncadeada.exe
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ListaDuplamenteEncadeada2\ListaDuplamenteEncadeada\obj\Debug\ListaDuplamenteEncadeada.pdb

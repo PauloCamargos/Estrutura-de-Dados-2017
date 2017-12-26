@@ -1,0 +1,6 @@
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 004\caTemplatePilha\caTemplatePilha\bin\Debug\caTemplatePilha.exe.config
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 004\caTemplatePilha\caTemplatePilha\bin\Debug\caTemplatePilha.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 004\caTemplatePilha\caTemplatePilha\bin\Debug\caTemplatePilha.pdb
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 004\caTemplatePilha\caTemplatePilha\obj\Debug\caTemplatePilha.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 004\caTemplatePilha\caTemplatePilha\obj\Debug\caTemplatePilha.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 004\caTemplatePilha\caTemplatePilha\obj\Debug\caTemplatePilha.pdb

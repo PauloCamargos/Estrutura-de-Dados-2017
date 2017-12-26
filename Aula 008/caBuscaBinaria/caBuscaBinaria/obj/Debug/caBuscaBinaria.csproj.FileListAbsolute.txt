@@ -1,0 +1,7 @@
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 008\caBuscaBinaria\caBuscaBinaria\bin\Debug\caBuscaBinaria.exe.config
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 008\caBuscaBinaria\caBuscaBinaria\bin\Debug\caBuscaBinaria.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 008\caBuscaBinaria\caBuscaBinaria\bin\Debug\caBuscaBinaria.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 008\caBuscaBinaria\caBuscaBinaria\obj\Debug\caBuscaBinaria.csprojResolveAssemblyReference.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 008\caBuscaBinaria\caBuscaBinaria\obj\Debug\caBuscaBinaria.csproj.CoreCompileInputs.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 008\caBuscaBinaria\caBuscaBinaria\obj\Debug\caBuscaBinaria.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 008\caBuscaBinaria\caBuscaBinaria\obj\Debug\caBuscaBinaria.pdb

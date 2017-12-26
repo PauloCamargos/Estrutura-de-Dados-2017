@@ -1,0 +1,15 @@
+Aula 12
+
+Algoritmo de Diskstra
+
+Encontrar o menor caminho 
+entre dois nós de um grafo
+cujas arestas tem peso
+
+Legenda: [d,C](i)
+d: distância acumulada
+C: cidade precedente
+i: número de interações (indice da interacao)
+
+Exemplo: Qual o menor caminho entre A e F?
+

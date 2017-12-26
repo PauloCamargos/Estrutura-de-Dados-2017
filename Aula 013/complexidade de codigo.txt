@@ -1,0 +1,14 @@
+05/12/2017
+Complexidade de algoritmos (time complexity)
+
+É o quanto de trabalho é necessario para que um algoritmo resolva um
+problema. Quantidade de trabalho necessaria para sua execucao.
+
+LOC -> lines of code. Quantas linhas tem um programa
+
+Escalas de complexidade:
+Melhor caso (omega)
+caso medio (teta)
+Pior caso (O- omicron) (big O)
+
+Exemplo: Newton-Raphson complexidade O(n^3), onde n é o numero de equaçoes variaveis.

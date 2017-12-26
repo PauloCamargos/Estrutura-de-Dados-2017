@@ -1,0 +1,6 @@
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 005\caFila\caFila\bin\Debug\caFila.exe.config
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 005\caFila\caFila\bin\Debug\caFila.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 005\caFila\caFila\bin\Debug\caFila.pdb
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 005\caFila\caFila\obj\Debug\caFila.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 005\caFila\caFila\obj\Debug\caFila.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Aula 005\caFila\caFila\obj\Debug\caFila.pdb

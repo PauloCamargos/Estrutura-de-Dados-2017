@@ -1,0 +1,12 @@
+c:\users\thiago\documents\visual studio 2017\Projects\caFormula_Matematica\caFormula_Matematica\obj\Debug\caFormula_Matematica.csprojResolveAssemblyReference.cache
+c:\users\thiago\documents\visual studio 2017\Projects\caFormula_Matematica\caFormula_Matematica\bin\Debug\caFormula_Matematica.exe.config
+c:\users\thiago\documents\visual studio 2017\Projects\caFormula_Matematica\caFormula_Matematica\bin\Debug\caFormula_Matematica.exe
+c:\users\thiago\documents\visual studio 2017\Projects\caFormula_Matematica\caFormula_Matematica\bin\Debug\caFormula_Matematica.pdb
+c:\users\thiago\documents\visual studio 2017\Projects\caFormula_Matematica\caFormula_Matematica\obj\Debug\caFormula_Matematica.exe
+c:\users\thiago\documents\visual studio 2017\Projects\caFormula_Matematica\caFormula_Matematica\obj\Debug\caFormula_Matematica.pdb
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Laboratorios\caFormula_Matematica\caFormula_Matematica\caFormula_Matematica\bin\Debug\caFormula_Matematica.exe.config
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Laboratorios\caFormula_Matematica\caFormula_Matematica\caFormula_Matematica\bin\Debug\caFormula_Matematica.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Laboratorios\caFormula_Matematica\caFormula_Matematica\caFormula_Matematica\bin\Debug\caFormula_Matematica.pdb
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Laboratorios\caFormula_Matematica\caFormula_Matematica\caFormula_Matematica\obj\Debug\caFormula_Matematica.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Laboratorios\caFormula_Matematica\caFormula_Matematica\caFormula_Matematica\obj\Debug\caFormula_Matematica.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Laboratorios\caFormula_Matematica\caFormula_Matematica\caFormula_Matematica\obj\Debug\caFormula_Matematica.pdb

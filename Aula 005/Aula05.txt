@@ -1,0 +1,47 @@
+FILA
+
+Estrutura de dados c; um ponto de inserção (FIM) e um de deleção (INICIO). 
+É conhecida como do tipo FIFO (first in, first out).
+
+MECANISMO
+
+|¨¨¨¨|¨¨¨¨|  |¨¨¨¨|¨¨¨¨|
+|data|pro |->|data|pro |
+|____|____|  |____|____|
+ ^inicio ^fim
+
+DIAGRAMA UML
+
+--------------------
+|Fila		   |
+--------------------
+|NoFila    inicio; |
+|NoFila    fim;    |
+--------------------
+|Fila();	   |
+|insere(int);      |
+|int Remove();     |
+|void print();     |
+|boll isEmpty();   |
+--------------------
+^1
+| 
+0.*
+--------------------
+|NoFila		   |
+--------------------
+|int  	  data	   |
+|int      next;    |
+--------------------
+|NoFila();	   |
+|NoFila(data,next);|
+|getters();        |
+|setters();        |
+|                  |
+--------------------
+
+Exemplo:
+[1] - Insere na fila
+[2] - Remove
+[3] - Imprimir
+[4] - Sair

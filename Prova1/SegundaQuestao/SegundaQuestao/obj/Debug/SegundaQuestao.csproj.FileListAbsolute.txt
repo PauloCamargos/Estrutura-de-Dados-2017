@@ -1,0 +1,6 @@
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Prova1\SegundaQuestao\SegundaQuestao\bin\Debug\SegundaQuestao.exe.config
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Prova1\SegundaQuestao\SegundaQuestao\bin\Debug\SegundaQuestao.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Prova1\SegundaQuestao\SegundaQuestao\bin\Debug\SegundaQuestao.pdb
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Prova1\SegundaQuestao\SegundaQuestao\obj\Debug\SegundaQuestao.exe
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Prova1\SegundaQuestao\SegundaQuestao\obj\Debug\SegundaQuestao.pdb
+D:\Visual Studio 2017\Projects\Estrutura de Dados 2017\Prova1\SegundaQuestao\SegundaQuestao\obj\Debug\SegundaQuestao.csprojResolveAssemblyReference.cache

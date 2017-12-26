@@ -1,0 +1,36 @@
+Estrutura de dados Não-Lineares
+
+Árvores: hierarquia fixa(nó-pai e nó-filhos, nós-netos). 
+Um único ponto de inserção: Raiz.
+
+Grafos: 
+Hierarquia flexivel e qqlr tipo de relação entre nós e pontos de inserção e deleção
+São um tipo de EDnão linear onde pode-se criar uma serie de nos e tbm relações entre esses nós.
+G(V, A) {V = vertices e A = arestas/no}
+
+Grafos podem ser: Direto e Indireto
+Direto: A relação entre dois os ou vertices, tem 1 ponto de partida e 1 chegada
+Indireto: Não tem ponto de partida nem chegada.
+Peso: Valor númerico associado a aresta
+
+Ex. indireto: Um robo com blocos superpostos, cujo bloco possui um vertice no esquema de grafo. É importante
+a conexão entre os blocos.
+
+Representação:
+
+Classe: Cidade
+    Atributos:nome, popularao, area, ...
+Classe: NoGrafo:
+Classe: Aresta
+
+Cria uma lista duplamente encadeada,
+Cria uma classe cidade, e seus objetos
+O primeiro no no grafo, é o primeiro no grafo
+
+Trabalho: Algoritmo de Dijkstra
+Visual #Dmax, 3Ds
+
+
+
+
+ 

@@ -1,0 +1,7 @@
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 011\caGrafo\caGrafo\bin\Debug\caGrafo.exe.config
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 011\caGrafo\caGrafo\bin\Debug\caGrafo.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 011\caGrafo\caGrafo\bin\Debug\caGrafo.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 011\caGrafo\caGrafo\obj\Debug\caGrafo.csprojResolveAssemblyReference.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 011\caGrafo\caGrafo\obj\Debug\caGrafo.csproj.CoreCompileInputs.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 011\caGrafo\caGrafo\obj\Debug\caGrafo.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 011\caGrafo\caGrafo\obj\Debug\caGrafo.pdb

@@ -1,0 +1,41 @@
+Desvantagems da pilha como array:
+- alocar mais/menos do que vai usar/precisar.
+
+------------------------
+==== Pilha Dinâmica ====
+------------------------
+É um mecanismo de pilha onde aloca/desaloca
+somente quando necessário.
+A pilha é constituida de elementos chamados "Nós" ou "nódulos". Cada
+nó possui um campo de dados (int, float, double, char...) e um campo
+de conexão, que pode receber o próximo elemento.
+Diagrama UML:
+
+-----------------
+| Pilha	  	|
+-----------------
+|NohPilha topo;	|
+----------------- <>1----0.*--
+|NohPilha();	|
+|bool isEmpty();|
+|void push(int);|
+|int pop();	|
+|void print();	|
+-----------------
+
+------------------------
+| NohPilha	  	|
+------------------------
+|NohPilha next;		|
+|int data		|
+-------------------------
+|NohPilha();		|
+|NohPilha(int);		|
+|NohPilha(int,NohPilha);|
+|getters();		|
+|setters();		|
+|-----------------------|
+
+Pilha <---0.*---> NohPilha = uma Pilha pode ter muitos nós.
+
+

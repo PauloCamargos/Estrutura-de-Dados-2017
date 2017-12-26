@@ -1,0 +1,6 @@
+Criar um programa para 
+[1] - Inserir um elemento na pilha
+[2] - Remover um elemento da pilha
+[3] - Imprimir a pilha
+[4] - Sair 
+Utilizar switch-case
