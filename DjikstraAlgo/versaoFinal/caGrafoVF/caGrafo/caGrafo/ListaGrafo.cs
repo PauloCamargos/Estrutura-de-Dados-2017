@@ -14,8 +14,6 @@ namespace caGrafo
         int qnt = 0;
         NohListaGrafo Inicio { get => inicio; set => inicio = value; }
         NohListaGrafo Fim { get => fim; set => fim = value; }
-        ListaAdj listaPrioridade_temp = new ListaAdj();
-
         ListaAdj listaPrioridade = new ListaAdj();
 
         public ListaGrafo()
@@ -71,25 +69,42 @@ namespace caGrafo
 
         }
 
-       public void menorDistanciaEntre(Cidade origem_, Cidade destino_)
-       // public void menorDistanciaEntre(String origem, String destino)
+        public void menorDistanciaEntre(Cidade origem_, Cidade destino_)
+        // public void menorDistanciaEntre(String origem, String destino)
         {
+            if (origem_ == null || destino_ == null)
+            {
+                Console.WriteLine("As suas cidades não foram encontradas no catálogo. Tente novamente.\n");
+                return;
+            }
             dijkstra(origem_, destino_);
-            //listaPrioridade.imprimeListaDjikstra();
+            Console.Write("Lista prioridade: ");
+            listaPrioridade.imprimeListaDjikstra();
+            //Console.Write("Lista temporaria: ");
+            //listaPrioridade_temp.imprimeListaDjikstra();
 
-            NohListaAdjacente temp = listaPrioridade_temp.encontraNoh(destino_);
+            NohListaAdjacente temp = listaPrioridade.encontraNoh(destino_);
             ListaAdj trajeto = new ListaAdj();
             while (temp != null)
             {
                 //Console.WriteLine(temp.Data.nome + " => ");
                 trajeto.insereInicio(temp.Data, temp.distanciaDikstra);
-                temp = listaPrioridade_temp.encontraNoh(temp.caminhoDijkstra);
+                temp = listaPrioridade.encontraNoh(temp.caminhoDijkstra);
             }
-            
+
             trajeto.imprimeTrajeto();
-            temp = null;
-            listaPrioridade_temp = null;
-            trajeto = null;
+            temp = listaPrioridade.INICIO;
+            while (temp != null)
+            {
+                temp.distanciaDikstra = double.PositiveInfinity;
+                temp.caminhoDijkstra = null;
+                temp.foiVisitado = false;
+                temp = temp.Next;
+            }
+
+            //temp = null;
+            //listaPrioridade_temp = null;
+            //trajeto = null;
         }
 
         private void dijkstra(Cidade origem, Cidade destino)
@@ -106,7 +121,7 @@ namespace caGrafo
             //            |   |     Marque nó V como visitado
             //            |   |     Organiza a lista P pela menor distancia de S a V
 
-            listaPrioridade_temp = listaPrioridade;
+            //listaPrioridade_temp = listaPrioridade;
 
             NohListaAdjacente aux = new NohListaAdjacente();
             NohListaAdjacente aux_lp = new NohListaAdjacente();
@@ -121,8 +136,8 @@ namespace caGrafo
             }
             else
             {
-                listaPrioridade_temp.encontraNoh(origem).distanciaDikstra = 0;
-                listaPrioridade_temp.ordenarLista();
+                listaPrioridade.encontraNoh(origem).distanciaDikstra = 0;
+                listaPrioridade.ordenarLista();
                 //listaPrioridade.imprimeListaDjikstra();
                 //Console.WriteLine("esta lista ai esta ordenada ");
                 //NohListaAdjacente noh_LA = this.encontraNoh(origem).ListaAdj.INICIO;
@@ -130,24 +145,24 @@ namespace caGrafo
                 //NohListaAdjacente noh_novaOrigem = listaPrioridade.encontraNoh(origem);
                 //NohListaAdjacente destino_LP = listaPrioridade.encontraNoh(destino); 
 
-                while (listaPrioridade_temp.encontraNoh(destino).distanciaDikstra == double.PositiveInfinity || !listaPrioridade_temp.encontraNoh(novaOrigem).foiVisitado)
+                while (listaPrioridade.encontraNoh(destino).distanciaDikstra == double.PositiveInfinity || !listaPrioridade.encontraNoh(novaOrigem).foiVisitado)
                 // while (!listaPrioridade.encontraNoh(destino).foiVisitado)
                 {
-                    listaPrioridade_temp.ordenarLista();
+                    listaPrioridade.ordenarLista();
                     // listaPrioridade.imprimeListaDjikstra();
                     //this.encontraNoh(novaOrigem).ListaAdj.ordenarLista();
                     aux = this.encontraNoh(novaOrigem).ListaAdj.INICIO;
-                    novaOrigem_lp = listaPrioridade_temp.encontraNoh(novaOrigem);
+                    novaOrigem_lp = listaPrioridade.encontraNoh(novaOrigem);
                     while (aux != null)
                     {
                         //Console.WriteLine("-------------------------------- ");
                         //listaPrioridade.imprimeListaDjikstra();
 
-                        aux_lp = listaPrioridade_temp.encontraNoh(aux.Data);
+                        aux_lp = listaPrioridade.encontraNoh(aux.Data);
                         if (aux_lp.distanciaDikstra > novaOrigem_lp.distanciaDikstra + aux.Peso && !aux_lp.foiVisitado)
                         {
                             aux_lp.distanciaDikstra = novaOrigem_lp.distanciaDikstra + aux.Peso;
-                            aux_lp.caminhoDijkstra = listaPrioridade_temp.encontraNoh(novaOrigem).Data;
+                            aux_lp.caminhoDijkstra = listaPrioridade.encontraNoh(novaOrigem).Data;
 
                             //aux_lp.caminhoDijkstra.Nome = listaPrioridade.encontraNoh(novaOrigem).Data.Nome;
                             //Console.WriteLine("nome :" + aux_lp.caminhoDijkstra.Nome);
@@ -155,12 +170,12 @@ namespace caGrafo
 
                         }
                         aux = aux.Next;
-                        listaPrioridade_temp.ordenarLista();
+                        listaPrioridade.ordenarLista();
                     }
-                    listaPrioridade_temp.ordenarLista();
-                    listaPrioridade_temp.encontraNoh(novaOrigem).foiVisitado = true;
+                    listaPrioridade.ordenarLista();
+                    listaPrioridade.encontraNoh(novaOrigem).foiVisitado = true;
                     i++; if (i > qnt) break;
-                    novaOrigem = listaPrioridade_temp.encontrarEm(i).Data;
+                    novaOrigem = listaPrioridade.encontrarEm(i).Data;
                 }
             }
             // listaPrioridade;

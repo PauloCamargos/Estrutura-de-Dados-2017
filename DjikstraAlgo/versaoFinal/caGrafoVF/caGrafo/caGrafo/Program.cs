@@ -69,7 +69,7 @@ namespace caGrafo
             ListaGrafo grafo = new ListaGrafo();
 
             //teste
-            grafo.insereFim(losAngeles);
+            //grafo.insereFim(losAngeles);
 
             //Inserindo nós no grafo, representando os objetos criados
             grafo.insereFim(araguari);
@@ -110,7 +110,7 @@ namespace caGrafo
             grafo.insereAresta(estrelaSul, romaria, 27);
             grafo.insereAresta(romaria, novaPonte, 28);
             grafo.insereAresta(novaPonte, indianopolis, 40);
-            grafo.insereAresta(novaPonte, losAngeles, 100);
+            //grafo.insereAresta(novaPonte, losAngeles, 100);
 
 
             //grafo.imprimeDireita();
@@ -129,21 +129,19 @@ namespace caGrafo
 
             while (resp == "s" || resp == "S")
             {
-
-                Console.Write("Entre com o nome da origem: ");
+                Console.WriteLine(" ====================== ALGORITMO DE DIJKSTRA ===========================");
+                Console.Write("\nEntre com o nome da origem: ");
                 origem = Console.ReadLine();
                 Console.Write("Entre com o nome do destino: ");
                 destino = Console.ReadLine();
                 origem_ = grafo.encontraNomeCidade(origem);
-                destino_ = grafo.encontraNomeCidade(destino);
+                destino_ = grafo.encontraNomeCidade(destino); Console.WriteLine("");
                 grafo.menorDistanciaEntre(origem_, destino_);
-                Console.Write("\n ----------------- Realizar nova consulta (S/N)? ");
+                Console.Write("\n ---> Realizar nova consulta (S/N)? ");
                 resp = Console.ReadLine();
                 Console.Clear();
             }
             Console.WriteLine("Programa encerrado!");
-
-
 
             Console.Read();
         }
