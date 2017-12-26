@@ -33,3 +33,10 @@ D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\versaoFinal\caGra
 D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\versaoFinal\caGrafoVF\caGrafo\caGrafo\obj\Debug\caGrafo.csproj.CoreCompileInputs.cache
 D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\versaoFinal\caGrafoVF\caGrafo\caGrafo\obj\Debug\caGrafo.exe
 D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\versaoFinal\caGrafoVF\caGrafo\caGrafo\obj\Debug\caGrafo.pdb
+C:\Users\pauloc\Desktop\clone\DjikstraAlgo\versaoFinal\caGrafoVF\caGrafo\caGrafo\bin\Debug\caGrafo.exe.config
+C:\Users\pauloc\Desktop\clone\DjikstraAlgo\versaoFinal\caGrafoVF\caGrafo\caGrafo\bin\Debug\caGrafo.exe
+C:\Users\pauloc\Desktop\clone\DjikstraAlgo\versaoFinal\caGrafoVF\caGrafo\caGrafo\bin\Debug\caGrafo.pdb
+C:\Users\pauloc\Desktop\clone\DjikstraAlgo\versaoFinal\caGrafoVF\caGrafo\caGrafo\obj\Debug\caGrafo.csprojResolveAssemblyReference.cache
+C:\Users\pauloc\Desktop\clone\DjikstraAlgo\versaoFinal\caGrafoVF\caGrafo\caGrafo\obj\Debug\caGrafo.csproj.CoreCompileInputs.cache
+C:\Users\pauloc\Desktop\clone\DjikstraAlgo\versaoFinal\caGrafoVF\caGrafo\caGrafo\obj\Debug\caGrafo.exe
+C:\Users\pauloc\Desktop\clone\DjikstraAlgo\versaoFinal\caGrafoVF\caGrafo\caGrafo\obj\Debug\caGrafo.pdb

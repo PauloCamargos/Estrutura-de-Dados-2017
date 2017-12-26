@@ -78,8 +78,8 @@ namespace caGrafo
                 return;
             }
             dijkstra(origem_, destino_);
-            Console.Write("Lista prioridade: ");
-            listaPrioridade.imprimeListaDjikstra();
+            //Console.Write("Lista prioridade: ");
+            //listaPrioridade.imprimeListaDjikstra();
             //Console.Write("Lista temporaria: ");
             //listaPrioridade_temp.imprimeListaDjikstra();
 
