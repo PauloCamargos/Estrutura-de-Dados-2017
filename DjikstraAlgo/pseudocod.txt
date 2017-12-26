@@ -1,0 +1,11 @@
+Configurar origem S como distancia 0;
+Configurar outros nós como distacia infinita;
+Inserir todos os nós em uma lista de prioridade P;
+|Para cada no V de P não-visitado //Começando em Origem (primeiro nó):
+|	|Verificar distancia de cada nó vizinho U de V
+|	|	Se distancia no grafo de P(V, U) + distancia acumulada P(S, V) menor que P(S, U)
+|	|		Configure a distância de P(S, V) = distancia acumulada P(S, U) + distancia P(U, V)
+|	|		Configure o anterior de U = V
+|	|	Organiza a lista P pela menor distancia de S a V 
+	Marque nó V como visitado
+	Se ultimo nó de P = Destino, break; return P até destino;

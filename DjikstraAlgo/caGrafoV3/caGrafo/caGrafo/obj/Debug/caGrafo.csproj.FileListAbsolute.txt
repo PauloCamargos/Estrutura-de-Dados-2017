@@ -1,0 +1,28 @@
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 011\caGrafo\caGrafo\bin\Debug\caGrafo.exe.config
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 011\caGrafo\caGrafo\bin\Debug\caGrafo.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 011\caGrafo\caGrafo\bin\Debug\caGrafo.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 011\caGrafo\caGrafo\obj\Debug\caGrafo.csprojResolveAssemblyReference.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 011\caGrafo\caGrafo\obj\Debug\caGrafo.csproj.CoreCompileInputs.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 011\caGrafo\caGrafo\obj\Debug\caGrafo.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\Aula 011\caGrafo\caGrafo\obj\Debug\caGrafo.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafo\caGrafo\bin\Debug\caGrafo.exe.config
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafo\caGrafo\bin\Debug\caGrafo.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafo\caGrafo\bin\Debug\caGrafo.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafo\caGrafo\obj\Debug\caGrafo.csprojResolveAssemblyReference.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafo\caGrafo\obj\Debug\caGrafo.csproj.CoreCompileInputs.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafo\caGrafo\obj\Debug\caGrafo.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafo\caGrafo\obj\Debug\caGrafo.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafoV2\caGrafo\caGrafo\bin\Debug\caGrafo.exe.config
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafoV2\caGrafo\caGrafo\bin\Debug\caGrafo.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafoV2\caGrafo\caGrafo\bin\Debug\caGrafo.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafoV2\caGrafo\caGrafo\obj\Debug\caGrafo.csprojResolveAssemblyReference.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafoV2\caGrafo\caGrafo\obj\Debug\caGrafo.csproj.CoreCompileInputs.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafoV2\caGrafo\caGrafo\obj\Debug\caGrafo.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafoV2\caGrafo\caGrafo\obj\Debug\caGrafo.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafoV3\caGrafo\caGrafo\bin\Debug\caGrafo.exe.config
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafoV3\caGrafo\caGrafo\bin\Debug\caGrafo.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafoV3\caGrafo\caGrafo\bin\Debug\caGrafo.pdb
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafoV3\caGrafo\caGrafo\obj\Debug\caGrafo.csprojResolveAssemblyReference.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafoV3\caGrafo\caGrafo\obj\Debug\caGrafo.csproj.CoreCompileInputs.cache
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafoV3\caGrafo\caGrafo\obj\Debug\caGrafo.exe
+D:\Documentos\Ufu\Engenharia Biomédica\2017-2\ED\DjikstraAlgo\caGrafoV3\caGrafo\caGrafo\obj\Debug\caGrafo.pdb
