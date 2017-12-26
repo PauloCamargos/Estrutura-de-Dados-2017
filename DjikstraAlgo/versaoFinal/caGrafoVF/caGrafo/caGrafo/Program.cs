@@ -126,10 +126,14 @@ namespace caGrafo
             Cidade origem_ = new Cidade();
             Cidade destino_ = new Cidade();
 
+            
 
             while (resp == "s" || resp == "S")
             {
-                Console.WriteLine(" ====================== ALGORITMO DE DIJKSTRA ===========================");
+
+                Console.WriteLine(" ====================== ALGORITMO DE DIJKSTRA ===========================\n");
+                Console.WriteLine("Cidades cadastradas neste programa: ");
+                grafo.imprimeCidades();
                 Console.Write("\nEntre com o nome da origem: ");
                 origem = Console.ReadLine();
                 Console.Write("Entre com o nome do destino: ");
@@ -141,7 +145,7 @@ namespace caGrafo
                 resp = Console.ReadLine();
                 Console.Clear();
             }
-            Console.WriteLine("Programa encerrado!");
+            Console.WriteLine("Programa encerrado! Pressione enter para sair.");
 
             Console.Read();
         }

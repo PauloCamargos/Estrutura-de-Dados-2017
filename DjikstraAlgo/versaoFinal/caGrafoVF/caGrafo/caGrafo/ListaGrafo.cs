@@ -181,6 +181,17 @@ namespace caGrafo
             // listaPrioridade;
         }
 
+        public void imprimeCidades()
+        {
+            NohListaGrafo temp = new NohListaGrafo();
+            temp = this.inicio;
+            while(temp != null)
+            {
+                Console.WriteLine(temp.Data.nome);
+                temp = temp.Next;
+            }
+        }
+
         public void imprimeGrafo()
         {
             NohListaGrafo temp = Inicio;
